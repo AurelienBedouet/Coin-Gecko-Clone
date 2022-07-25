@@ -1,7 +1,7 @@
 # Coin Gecko Clone.
 React Js / Tailwind CSS / Firebase
 
-### I used the firebase hosting service
+## I used the firebase hosting service
 ### Live demo : https://coin-gecko-clone.web.app/
 
 ### In this app i used:
